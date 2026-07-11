@@ -22,12 +22,12 @@ jobs:
         run: npm install
 
       - name: Avvia il Grabber EPG (MODIFICA QUI I TUOI SITI)
-        run: npm run grab --- --sites=raiplay.it,guida.tv,guidatv.sky.it,mediasetinfinity.mediaset.it --output=guide.xml
+        run: npm run grab --- --sites=raiplay.it,mediasetinfinity.mediaset.it --output=guide.xml
 
       - name: Salva e pubblica il file su GitHub
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add guide.xml
+          git add -f guide.xml
           git commit -m "EPG Aggiornata automaticamente: $(date +'%Y-%m-%d')" || exit 0
           git push
