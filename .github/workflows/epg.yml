@@ -1,0 +1,33 @@
+name: Aggiornamento Automatico EPG
+
+on:
+  schedule:
+    # Esegue lo script ogni giorno alle 04:00 del mattino (orario UTC)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Ti permette anche di avviarlo manualmente con un clic!
+
+jobs:
+  aggiorna-guida:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica i file del repository
+        uses: actions/checkout@v4
+
+      - name: Installa Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Installa le dipendenze
+        run: npm install
+
+      - name: Avvia il Grabber EPG (MODIFICA QUI I TUOI SITI)
+        run: npm run grab --- --sites=raiplay.it,guida.tv,guidatv.sky.it,mediasetinfinity.mediaset.it --output=guide.xml
+
+      - name: Salva e pubblica il file su GitHub
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add guide.xml
+          git commit -m "EPG Aggiornata automaticamente: $(date +'%Y-%m-%d')" || exit 0
+          git push
