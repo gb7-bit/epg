@@ -39,7 +39,7 @@
   <channel site="guida.tv" site_id="69857350/eurosport-2-italia" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
   <channel site="guida.tv" site_id="698573/eurosport-italia" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
   <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="LA7.it@SD">LA 7</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#8195" lang="it" xmltv_id="TV8.it@HD">TV8 HD</channel>
+  <channel site="tivu.tv" site_id="279" lang="it" logo="https://services.tivulaguida.it/uploads/channel/b4879a78670aa64de3fbb0010ade8b85d2654dac.png" xmltv_id="">TV8 HD</channel>
   <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it@SD">7 Gold</channel>
   <channel site="guida.tv" site_id="66487167/sky-sport-tennis" lang="it" xmltv_id="SkySportTennis.it@SD">Sky Sport Tennis</channel>
   <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it@SD">Cine34</channel>
@@ -81,7 +81,7 @@
   <channel site="france.tv" site_id="sport" lang="fr" xmltv_id="">France Télévisions Sport</channel>
   <!-- L'Equipe ed M6 -->
   <channel site="mon-programme-tv.be" site_id="13/programme-television-m6" lang="fr" xmltv_id="M6.fr@HD">M6</channel>
-  <channel site="chaines-tv.orange.fr" site_id="1401" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_equipe21%2F20180417_141110%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="LEquipe.fr@SD">LA CHAINE L&apos;EQUIPE</channel>
+  <channel site="tv-programme.telecablesat.fr" site_id="1401" lang="fr" xmltv_id="LEquipe.fr@SD">L&apos;Equipe</channel>
 
   <!-- Belgio -->
   <channel site="mon-programme-tv.be" site_id="24/programme-television-la-une-rtbf" lang="fr" xmltv_id="LaUne.be@SD">LA UNE (RTBF)</channel>
@@ -108,4 +108,8 @@
 
   <!-- Spagna -->
   <channel site="movistarplus.es" site_id="TDEP" lang="es" xmltv_id="">Teledeporte</channel>
+
+  <!-- Croazia -->
+  <channel site="mujtvprogram.cz" site_id="61" lang="cs" xmltv_id="Sport1.cz@SD">Sport 1</channel>
+  <channel site="mujtvprogram.cz" site_id="93" lang="cs" xmltv_id="Sport2.cz@SD">Sport 2</channel>
 </channels>
