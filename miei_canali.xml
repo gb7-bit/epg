@@ -73,6 +73,10 @@
   <channel site="guidatv.sky.it" site_id="DTH#11849" lang="it" xmltv_id="ZonaDAZN3.it@SD">DAZN3</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11850" lang="it" xmltv_id="ZonaDAZN4.it@SD">DAZN4</channel>
 
+  <!-- Svizzera -->
+  <channel site="tv.blue.ch" site_id="356" lang="it" xmltv_id="RSILa1.ch@SD">RSI La 1</channel>
+  <channel site="tv.blue.ch" site_id="357" lang="it" xmltv_id="RSILa2.ch@SD">RSI LA 2</channel>
+
   <!-- France TV -->
   <channel site="france.tv" site_id="france-2" lang="fr" xmltv_id="France2.fr">France 2</channel>
   <channel site="france.tv" site_id="france-3" lang="fr" xmltv_id="France3.fr">France 3</channel>
