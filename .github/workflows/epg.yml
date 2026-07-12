@@ -42,9 +42,9 @@ jobs:
             <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Focus.it" site_id="FU">Focus</channel>
             <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Cine34.it" site_id="B6">Cine34</channel>
 
-            <!-- La7 e La7d -->
-            <channel site="la7.it" lang="it" xmltv_id="La7.it" site_id="la7">La7</channel>
-            <channel site="la7.it" lang="it" xmltv_id="La7d.it" site_id="la7d">La7d</channel>
+            <!-- La7 e La7d (tramite guida.tv per stabilità) -->
+            <channel site="guida.tv" lang="it" xmltv_id="La7.it" site_id="210">La7</channel>
+            <channel site="guida.tv" lang="it" xmltv_id="La7d.it" site_id="229">La7d</channel>
 
             <!-- Canali In Chiaro Sky (TV8, Cielo) - Estratti dal sito guida.tv -->
             <channel site="guida.tv" lang="it" xmltv_id="TV8.it" site_id="211">TV8</channel>
