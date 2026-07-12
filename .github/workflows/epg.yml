@@ -46,8 +46,7 @@ jobs:
 
       - name: Avvia il Grabber EPG (MODIFICA QUI I TUOI SITI)
 
-        run: npm run grab --- --sites=raiplay.it,mediasetinfinity.mediaset.it,guida.tv,france.tv,chaines-tv.orange.fr
- --output=guide.xml
+        run: npm run grab --- --sites=raiplay.it,mediasetinfinity.mediaset.it,guida.tv,france.tv,chaines-tv.orange.fr--output=guide.xml
 
 
 
