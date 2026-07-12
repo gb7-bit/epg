@@ -1,72 +1,65 @@
 name: Aggiornamento Automatico EPG
 
+
+
 on:
+
   schedule:
+
     # Esegue lo script ogni giorno alle 04:00 del mattino (orario UTC)
+
     - cron: '0 4 * * *'
+
   workflow_dispatch: # Ti permette anche di avviarlo manualmente con un clic!
 
+
+
 jobs:
+
   aggiorna-guida:
+
     runs-on: ubuntu-latest
+
     steps:
+
       - name: Scarica i file del repository
+
         uses: actions/checkout@v4
 
+
+
       - name: Installa Node.js
+
         uses: actions/setup-node@v4
+
         with:
+
           node-version: '20'
 
+
+
       - name: Installa le dipendenze
+
         run: npm install
 
-      - name: Crea la lista canali personalizzata (Italia)
-        run: |
-          cat <<EOF > miei_canali.xml
-          <?xml version="1.0" encoding="UTF-8"?>
-          <channels>
-            <!-- Gruppo Rai -->
-            <channel site="raiplay.it" lang="it" xmltv_id="Rai1.it" site_id="1/Rai1">Rai 1</channel>
-            <channel site="raiplay.it" lang="it" xmltv_id="Rai2.it" site_id="2/Rai2">Rai 2</channel>
-            <channel site="raiplay.it" lang="it" xmltv_id="Rai3.it" site_id="3/Rai3">Rai 3</channel>
-            <channel site="raiplay.it" lang="it" xmltv_id="Rai4.it" site_id="10/Rai4">Rai 4</channel>
-            <channel site="raiplay.it" lang="it" xmltv_id="Rai5.it" site_id="31/Rai5">Rai 5</channel>
-            <channel site="raiplay.it" lang="it" xmltv_id="RaiNews24.it" site_id="1/RaiNews24">Rai News 24</channel>
 
-            <!-- Gruppo Mediaset -->
-            <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Rete4.it" site_id="R4">Rete 4</channel>
-            <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Canale5.it" site_id="C5">Canale 5</channel>
-            <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia1.it" site_id="I1">Italia 1</channel>
-            <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="20Mediaset.it" site_id="LB">20 Mediaset</channel>
-            <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Focus.it" site_id="FU">Focus</channel>
-            <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Cine34.it" site_id="B6">Cine34</channel>
 
-            <!-- La7 e La7d (tramite guida.tv per stabilità) -->
-            <channel site="guida.tv" lang="it" xmltv_id="La7.it" site_id="210">La7</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="La7d.it" site_id="229">La7d</channel>
+      - name: Avvia il Grabber EPG (MODIFICA QUI I TUOI SITI)
 
-            <!-- Canali In Chiaro Sky (TV8, Cielo) - Estratti dal sito guida.tv -->
-            <channel site="guida.tv" lang="it" xmltv_id="TV8.it" site_id="211">TV8</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="Cielo.it" site_id="194">Cielo</channel>
+        run: npm run grab --- --sites=guida.tv --output=guide.xml
 
-            <!-- Gruppo Discovery (Nove, Real Time, DMAX, MotorTrend, Giallo) -->
-            <channel site="guida.tv" lang="it" xmltv_id="Nove.it" site_id="212">Nove</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="RealTime.it" site_id="213">Real Time</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="DMAX.it" site_id="216">DMAX</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="MotorTrend.it" site_id="238">Motor Trend</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="Giallo.it" site_id="215">Giallo</channel>
-            <channel site="guida.tv" lang="it" xmltv_id="FoodNetwork.it" site_id="237">Food Network</channel>
-          </channels>
-          EOF
 
-      - name: Avvia il Grabber EPG con i canali selezionati
-        run: npm run grab --- --channels=miei_canali.xml --output=guide.xml
 
       - name: Salva e pubblica il file su GitHub
+
         run: |
+
           git config --global user.name "GitHub Action Bot"
+
           git config --global user.email "action@github.com"
+
           git add -f guide.xml
+
           git commit -m "EPG Aggiornata automaticamente: $(date +'%Y-%m-%d')" || exit 0
+
           git push
