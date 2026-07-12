@@ -40,7 +40,7 @@
   <channel site="superguidatv.it" site_id="eurosport-2hd/sky-sport/46" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2HD</channel>
   <channel site="superguidatv.it" site_id="eurosport-hd/sky-sport/45" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport HD</channel>
   <channel site="superguidatv.it" site_id="nove/238" lang="it" xmltv_id="Nove.it@SD">Nove</channel>
-  <channel site="superguidatv.it" site_id="la7/253" lang="it" xmltv_id="LA7.it@SD">La7</channel></channel>
+  <channel site="superguidatv.it" site_id="la7/253" lang="it" xmltv_id="LA7.it@SD">La7</channel>
   <channel site="tivu.tv" site_id="279" lang="it" logo="https://services.tivulaguida.it/uploads/channel/b4879a78670aa64de3fbb0010ade8b85d2654dac.png" xmltv_id="">TV8 HD</channel>
   <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it@SD">7 Gold</channel>
   <channel site="guida.tv" site_id="66487167/sky-sport-tennis" lang="it" xmltv_id="SkySportTennis.it@SD">Sky Sport Tennis</channel>
