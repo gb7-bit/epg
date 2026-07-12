@@ -77,4 +77,22 @@
   <!-- L'Equipe ed M6 -->
   <channel site="chaines-tv.orange.fr" site_id="118" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_m6_umts%2F20231026_170825%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="M6.fr@HD">M6</channel>
   <channel site="chaines-tv.orange.fr" site_id="1401" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_equipe21%2F20180417_141110%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="LEquipe.fr@SD">LA CHAINE L&apos;EQUIPE</channel>
+
+  <!-- Dazn e Sport TV Portogallo -->
+  <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
+  <channel site="vodafone.pt" site_id="3885" lang="pt" xmltv_id="DAZN1.uk@Portugal">DAZN 1</channel>
+  <channel site="vodafone.pt" site_id="3886" lang="pt" xmltv_id="DAZN2.uk@Portugal">DAZN 2</channel>
+  <channel site="vodafone.pt" site_id="3887" lang="pt" xmltv_id="DAZN3.uk@Portugal">DAZN 3</channel>
+  <channel site="vodafone.pt" site_id="3888" lang="pt" xmltv_id="DAZN4.uk@Portugal">DAZN 4</channel>
+  <channel site="vodafone.pt" site_id="3889" lang="pt" xmltv_id="DAZN5.uk@Portugal">DAZN 5</channel>
+  <channel site="vodafone.pt" site_id="3890" lang="pt" xmltv_id="DAZN6.uk@Portugal">DAZN 6</channel>
+  <channel site="vodafone.pt" site_id="3028" lang="pt" xmltv_id="RTP1.pt@HD">RTP1</channel>
+  <channel site="vodafone.pt" site_id="2825" lang="pt" xmltv_id="RTP2.pt@HD">RTP2</channel>
+  <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
+  <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
+  <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
+  <channel site="vodafone.pt" site_id="2690" lang="pt" xmltv_id="SportTV4.pt@SD">SportTV4</channel>
+  <channel site="vodafone.pt" site_id="2691" lang="pt" xmltv_id="SportTV5.pt@SD">SportTV5</channel>
+  <channel site="vodafone.pt" site_id="7250" lang="pt" xmltv_id="SportTV6.pt@SD">SportTV6</channel>
+  <channel site="vodafone.pt" site_id="8743" lang="pt" xmltv_id="SportTV7.pt@SD">SportTV7</channel>
 </channels>
