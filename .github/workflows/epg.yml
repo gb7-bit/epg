@@ -44,9 +44,9 @@ jobs:
 
 
 
-      - name: Avvia il Grabber EPG (MODIFICA QUI I TUOI SITI)
+      - name: Avvia il Grabber EPG usando la lista canali personalizzata
 
-        run: npm run grab --- --sites=raiplay.it,mediasetinfinity.mediaset.it,guida.tv,france.tv,chaines-tv.orange.fr--output=guide.xml
+        run: npm run grab --- --channels=miei_canali.xml --output=guide.xml
 
 
 
