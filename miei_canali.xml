@@ -39,7 +39,7 @@
   <channel site="guida.tv" site_id="69857350/eurosport-2-italia" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
   <channel site="guida.tv" site_id="698573/eurosport-italia" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
   <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="LA7.it@SD">LA 7</channel>
-  <channel site="guida.tv" site_id="778473/tv8" lang="it" xmltv_id="TV8.it@SD">TV8</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#8195" lang="it" xmltv_id="TV8.it@HD">TV8 HD</channel>
   <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it@SD">7 Gold</channel>
   <channel site="guida.tv" site_id="66487167/sky-sport-tennis" lang="it" xmltv_id="SkySportTennis.it@SD">Sky Sport Tennis</channel>
   <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it@SD">Cine34</channel>
@@ -48,6 +48,8 @@
   <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="DonnaTV.it@SD">Donna TV</channel>
   <channel site="guida.tv" site_id="70787384/food-network" lang="it" xmltv_id="FoodNetwork.it@SD">Food Network</channel>
   <channel site="guida.tv" site_id="71737979/giallo" lang="it" xmltv_id="Giallo.it@SD">Giallo</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11342" lang="it" xmltv_id="Twentyseven.it@HD">27Twentyseven HD</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#6626" lang="it" xmltv_id="QVC.it@SD">QVC</channel>
   <channel site="guida.tv" site_id="72717384/hgtv-it" lang="it" xmltv_id="HGTV.it@SD">HGTV IT</channel>
   <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it@SD">Inter TV</channel>
   <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it@SD">Super!</channel>
@@ -66,6 +68,10 @@
   <channel site="guida.tv" site_id="83838085/sky-sport-uno" lang="it" xmltv_id="SkySportUno.it@SD">Sky Sport Uno</channel>
   <channel site="guida.tv" site_id="83847273/super-tennis-hd" lang="it" xmltv_id="SuperTennis.it@HD">Super Tennis HD</channel>
   <channel site="guida.tv" site_id="84675052/top-calcio-24" lang="it" xmltv_id="TopCalcio24.it@SD">Top Calcio 24</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11401" lang="it" xmltv_id="ZonaDAZN2.it@SD">DAZN 2</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11402" lang="it" xmltv_id="ZonaDAZN.it@SD">DAZN 1</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11849" lang="it" xmltv_id="ZonaDAZN3.it@SD">DAZN3</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11850" lang="it" xmltv_id="ZonaDAZN4.it@SD">DAZN4</channel>
 
   <!-- France TV -->
   <channel site="france.tv" site_id="france-2" lang="fr" xmltv_id="France2.fr">France 2</channel>
