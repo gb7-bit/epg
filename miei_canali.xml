@@ -95,12 +95,12 @@
   
   <!-- Dazn e Sport TV Portogallo -->
   <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
-  <channel site="vodafone.pt" site_id="3885" lang="pt" xmltv_id="DAZN1.uk@Portugal">DAZN 1</channel>
-  <channel site="vodafone.pt" site_id="3886" lang="pt" xmltv_id="DAZN2.uk@Portugal">DAZN 2</channel>
-  <channel site="vodafone.pt" site_id="3887" lang="pt" xmltv_id="DAZN3.uk@Portugal">DAZN 3</channel>
-  <channel site="vodafone.pt" site_id="3888" lang="pt" xmltv_id="DAZN4.uk@Portugal">DAZN 4</channel>
-  <channel site="vodafone.pt" site_id="3889" lang="pt" xmltv_id="DAZN5.uk@Portugal">DAZN 5</channel>
-  <channel site="vodafone.pt" site_id="3890" lang="pt" xmltv_id="DAZN6.uk@Portugal">DAZN 6</channel>
+  <channel site="vodafone.pt" site_id="3885" lang="pt" xmltv_id="DAZN1.uk@Portugal">DAZN 1 PT</channel>
+  <channel site="vodafone.pt" site_id="3886" lang="pt" xmltv_id="DAZN2.uk@Portugal">DAZN 2 PT</channel>
+  <channel site="vodafone.pt" site_id="3887" lang="pt" xmltv_id="DAZN3.uk@Portugal">DAZN 3 PT</channel>
+  <channel site="vodafone.pt" site_id="3888" lang="pt" xmltv_id="DAZN4.uk@Portugal">DAZN 4 PT</channel>
+  <channel site="vodafone.pt" site_id="3889" lang="pt" xmltv_id="DAZN5.uk@Portugal">DAZN 5 PT</channel>
+  <channel site="vodafone.pt" site_id="3890" lang="pt" xmltv_id="DAZN6.uk@Portugal">DAZN 6 PT</channel>
   <channel site="vodafone.pt" site_id="3028" lang="pt" xmltv_id="RTP1.pt@HD">RTP1</channel>
   <channel site="vodafone.pt" site_id="2825" lang="pt" xmltv_id="RTP2.pt@HD">RTP2</channel>
   <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
