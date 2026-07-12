@@ -79,11 +79,15 @@
   <channel site="france.tv" site_id="france-4" lang="fr" xmltv_id="France4.fr">France 4</channel>
   <channel site="france.tv" site_id="france-5" lang="fr" xmltv_id="France5.fr">France 5</channel>
   <channel site="france.tv" site_id="sport" lang="fr" xmltv_id="">France Télévisions Sport</channel>
-  
   <!-- L'Equipe ed M6 -->
-  <channel site="chaines-tv.orange.fr" site_id="118" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_m6_umts%2F20231026_170825%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="M6.fr@HD">M6</channel>
+  <channel site="mon-programme-tv.be" site_id="13/programme-television-m6" lang="fr" xmltv_id="M6.fr@HD">M6</channel>
   <channel site="chaines-tv.orange.fr" site_id="1401" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_equipe21%2F20180417_141110%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="LEquipe.fr@SD">LA CHAINE L&apos;EQUIPE</channel>
 
+  <!-- Belgio -->
+  <channel site="mon-programme-tv.be" site_id="24/programme-television-la-une-rtbf" lang="fr" xmltv_id="LaUne.be@SD">LA UNE (RTBF)</channel>
+  <channel site="mon-programme-tv.be" site_id="1916/programme-television-tipik" lang="fr" xmltv_id="Tipik.be@SD">TIPIK</channel>
+  <channel site="vrt.be" site_id="vrt1" lang="nl" logo="https://images.vrt.be/orig/2023/04/28/c448d669-e5c1-11ed-91d7-02b7b76bf47f.png" xmltv_id="VRT1.be">VRT 1</channel>
+  
   <!-- Dazn e Sport TV Portogallo -->
   <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
   <channel site="vodafone.pt" site_id="3885" lang="pt" xmltv_id="DAZN1.uk@Portugal">DAZN 1</channel>
@@ -101,4 +105,7 @@
   <channel site="vodafone.pt" site_id="2691" lang="pt" xmltv_id="SportTV5.pt@SD">SportTV5</channel>
   <channel site="vodafone.pt" site_id="7250" lang="pt" xmltv_id="SportTV6.pt@SD">SportTV6</channel>
   <channel site="vodafone.pt" site_id="8743" lang="pt" xmltv_id="SportTV7.pt@SD">SportTV7</channel>
+
+  <!-- Spagna -->
+  <channel site="movistarplus.es" site_id="TDEP" lang="es" xmltv_id="">Teledeporte</channel>
 </channels>
