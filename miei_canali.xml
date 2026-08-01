@@ -92,6 +92,7 @@
   <channel site="telenet.tv" site_id="launehd" lang="fr" xmltv_id="LaUne.be@SD">La Une HD</channel>
   <channel site="mon-programme-tv.be" site_id="1916/programme-television-tipik" lang="fr" xmltv_id="Tipik.be@SD">TIPIK</channel>
   <channel site="telenet.tv" site_id="eenhd" lang="nl" xmltv_id="">VRT 1</channel>
+  <channel site="telenet.tv" site_id="ketnetcanvashd" lang="nl" xmltv_id="">VRT CANVAS</channel>
   
   <!-- Dazn e Sport TV Portogallo -->
   <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
