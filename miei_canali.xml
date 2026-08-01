@@ -89,9 +89,9 @@
   <channel site="tv-programme.telecablesat.fr" site_id="1401" lang="fr" xmltv_id="LEquipe.fr@SD">L&apos;Equipe</channel>
 
   <!-- Belgio -->
-  <channel site="mon-programme-tv.be" site_id="24/programme-television-la-une-rtbf" lang="fr" xmltv_id="LaUne.be@SD">LA UNE (RTBF)</channel>
+  <channel site="telenet.tv" site_id="launehd" lang="fr" xmltv_id="LaUne.be@SD">La Une HD</channel>
   <channel site="mon-programme-tv.be" site_id="1916/programme-television-tipik" lang="fr" xmltv_id="Tipik.be@SD">TIPIK</channel>
-  <channel site="vrt.be" site_id="vrt1" lang="nl" logo="https://images.vrt.be/orig/2023/04/28/c448d669-e5c1-11ed-91d7-02b7b76bf47f.png" xmltv_id="VRT1.be">VRT 1</channel>
+  <channel site="telenet.tv" site_id="eenhd" lang="nl" xmltv_id="">VRT 1</channel>
   
   <!-- Dazn e Sport TV Portogallo -->
   <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
