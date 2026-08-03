@@ -83,7 +83,7 @@
   <channel site="france.tv" site_id="france-3" lang="fr" xmltv_id="France3.fr">France 3</channel>
   <channel site="france.tv" site_id="france-4" lang="fr" xmltv_id="France4.fr">France 4</channel>
   <channel site="france.tv" site_id="france-5" lang="fr" xmltv_id="France5.fr">France 5</channel>
-  <channel site="france.tv" site_id="sport" lang="fr" xmltv_id="">France Télévisions Sport</channel>
+  <channel site="france.tv" site_id="sport" lang="fr" logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/France.tv_Sport_2026.png" xmltv_id="">France Télévisions Sport</channel>
   <!-- L'Equipe ed M6 -->
   <channel site="mon-programme-tv.be" site_id="13/programme-television-m6" lang="fr" xmltv_id="M6.fr@HD">M6</channel>
   <channel site="tv-programme.telecablesat.fr" site_id="1401" lang="fr" xmltv_id="LEquipe.fr@SD">L&apos;Equipe</channel>
@@ -92,7 +92,7 @@
   <channel site="telenet.tv" site_id="launehd" lang="fr" xmltv_id="LaUne.be@SD">La Une HD</channel>
   <channel site="mon-programme-tv.be" site_id="1916/programme-television-tipik" lang="fr" xmltv_id="Tipik.be@SD">TIPIK</channel>
   <channel site="telenet.tv" site_id="eenhd" lang="nl" logo="https://images.seeklogo.com/logo-png/48/1/vrt-1-logo-png_seeklogo-481706.png" xmltv_id="">VRT 1</channel>
-  <channel site="telenet.tv" site_id="ketnetcanvashd" lang="nl" xmltv_id="">VRT CANVAS</channel>
+  <channel site="telenet.tv" site_id="ketnetcanvashd" logo="https://images.vrt.be/orig/2025/11/04/fb012713-f86b-475a-bcb4-35704a429b25.svg" lang="nl" xmltv_id="">VRT CANVAS</channel>
   
   <!-- Dazn e Sport TV Portogallo -->
   <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
@@ -113,7 +113,7 @@
   <channel site="vodafone.pt" site_id="8743" lang="pt" xmltv_id="SportTV7.pt@SD">SportTV7</channel>
 
   <!-- Spagna -->
-  <channel site="movistarplus.es" site_id="TDEP" lang="es" xmltv_id="">Teledeporte</channel>
+  <channel site="movistarplus.es" site_id="TDEP" lang="es" logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" xmltv_id="">Teledeporte</channel>
 
   <!-- Croazia -->
   <channel site="mujtvprogram.cz" site_id="61" lang="cs" xmltv_id="Sport1.cz@SD">Sport 1</channel>
