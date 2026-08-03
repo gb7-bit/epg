@@ -91,7 +91,7 @@
   <!-- Belgio -->
   <channel site="telenet.tv" site_id="launehd" lang="fr" xmltv_id="LaUne.be@SD">La Une HD</channel>
   <channel site="mon-programme-tv.be" site_id="1916/programme-television-tipik" lang="fr" xmltv_id="Tipik.be@SD">TIPIK</channel>
-  <channel site="telenet.tv" site_id="eenhd" lang="nl" xmltv_id="">VRT 1</channel>
+  <channel site="telenet.tv" site_id="eenhd" lang="nl"logo="https://images.seeklogo.com/logo-png/48/1/vrt-1-logo-png_seeklogo-481706.png" xmltv_id="">VRT 1</channel>
   <channel site="telenet.tv" site_id="ketnetcanvashd" lang="nl" xmltv_id="">VRT CANVAS</channel>
   
   <!-- Dazn e Sport TV Portogallo -->
