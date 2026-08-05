@@ -60,8 +60,6 @@
   <channel site="tivu.tv" site_id="19" lang="it" logo="https://services.tivulaguida.it/uploads/channel/a1add1159f8dfa51d8a10c84e661d19165ed64e5.png" xmltv_id="">Real time HD</channel>
   <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it@SD">RTL 102.5</channel>
   <channel site="guida.tv" site_id="83495456/sky-tg24" lang="it" xmltv_id="SkyTG24.it@SD">Sky TG24</channel>
-  <channel site="guida.tv" site_id="83757079/sky-sport-football" lang="it" xmltv_id="SkySportFootball.it@SD">Sky Sport Football</channel>
-  <channel site="guida.tv" site_id="83757866/sky-sport-nba" lang="it" xmltv_id="">Sky Sport NBA</channel>
   <channel site="guida.tv" site_id="83758380/sky-sport-24" lang="it" xmltv_id="SkySport24.it@SD">SKY SPORT 24</channel>
   <channel site="guida.tv" site_id="83777180/sky-moto-gp" lang="it" xmltv_id="SkySportMotoGP.it@SD">Sky Moto GP</channel>
   <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it@SD">Sport Italia</channel>
