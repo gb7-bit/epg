@@ -73,6 +73,7 @@
   <channel site="guidatv.sky.it" site_id="DTH#9113" lang="it" xmltv_id="SkySportCalcio.it@SD">Sky Sport Calcio</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11346" lang="it" xmltv_id="SkySportUno.it@SD">Sky Sport Uno</channel>
   <channel site="guidatv.sky.it" site_id="DTH#9093" lang="it" xmltv_id="SkySportArena.it@SD">Sky Sport Arena</channel>
+  <channel site="superguidatv.it" site_id="dazn/dazn/459" lang="it" xmltv_id="">DAZN</channel>
 
   <!-- Svizzera -->
   <channel site="tv.blue.ch" site_id="356" lang="it" xmltv_id="RSILa1.ch@SD">RSI La 1</channel>
