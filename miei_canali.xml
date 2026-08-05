@@ -43,7 +43,6 @@
   <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="LA7.it@SD">LA 7</channel>
   <channel site="tivu.tv" site_id="279" lang="it" logo="https://services.tivulaguida.it/uploads/channel/b4879a78670aa64de3fbb0010ade8b85d2654dac.png" xmltv_id="">TV8 HD</channel>
   <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it@SD">7 Gold</channel>
-  <channel site="guida.tv" site_id="66487167/sky-sport-tennis" lang="it" xmltv_id="SkySportTennis.it@SD">Sky Sport Tennis</channel>
   <channel site="tivu.tv" site_id="273" lang="it" logo="https://services.tivulaguida.it/uploads/channel/08f1deb7aa1b566817174fde164ee21b3d409b3e.png" xmltv_id="">CIne 34 HD</channel>
   <channel site="tivu.tv" site_id="32" lang="it" logo="https://services.tivulaguida.it/uploads/channel/686e4fbef1e455f8b84898fe5bcb20ac254cbe52.png" xmltv_id="">DMAX HD</channel>
   <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="DonnaTV.it@SD">Donna TV</channel>
@@ -60,10 +59,7 @@
   <channel site="tivu.tv" site_id="19" lang="it" logo="https://services.tivulaguida.it/uploads/channel/a1add1159f8dfa51d8a10c84e661d19165ed64e5.png" xmltv_id="">Real time HD</channel>
   <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it@SD">RTL 102.5</channel>
   <channel site="guida.tv" site_id="83495456/sky-tg24" lang="it" xmltv_id="SkyTG24.it@SD">Sky TG24</channel>
-  <channel site="guida.tv" site_id="83758380/sky-sport-24" lang="it" xmltv_id="SkySport24.it@SD">SKY SPORT 24</channel>
-  <channel site="guida.tv" site_id="83777180/sky-moto-gp" lang="it" xmltv_id="SkySportMotoGP.it@SD">Sky Moto GP</channel>
   <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it@SD">Sport Italia</channel>
-  <channel site="guida.tv" site_id="83837049/sky-sport-f1" lang="it" xmltv_id="SkySportF1.it@SD">Sky Sport F1</channel>
   <channel site="guida.tv" site_id="83847273/super-tennis-hd" lang="it" xmltv_id="SuperTennis.it@HD">Super Tennis HD</channel>
   <channel site="guida.tv" site_id="84675052/top-calcio-24" lang="it" xmltv_id="TopCalcio24.it@SD">Top Calcio 24</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11401" lang="it" xmltv_id="ZonaDAZN2.it@SD">DAZN 2</channel>
@@ -73,7 +69,10 @@
   <channel site="guidatv.sky.it" site_id="DTH#9113" lang="it" xmltv_id="SkySportCalcio.it@SD">Sky Sport Calcio</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11346" lang="it" xmltv_id="SkySportUno.it@SD">Sky Sport Uno</channel>
   <channel site="guidatv.sky.it" site_id="DTH#9093" lang="it" xmltv_id="SkySportArena.it@SD">Sky Sport Arena</channel>
-  <channel site="superguidatv.it" site_id="dazn/dazn/459" lang="it" xmltv_id="">DAZN</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#9096" lang="it" xmltv_id="SkySportF1.it@SD">Sky Sport F1</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#9094" lang="it" xmltv_id="SkySport24.it@SD">Sky Sport24</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#9102" lang="it" xmltv_id="SkySportMotoGP.it@SD">Sky Sport MotoGP</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11237" lang="it" xmltv_id="SkySportTennis.it@SD">Sky Sport Tennis</channel>
 
   <!-- Svizzera -->
   <channel site="tv.blue.ch" site_id="356" lang="it" xmltv_id="RSILa1.ch@SD">RSI La 1</channel>
@@ -82,8 +81,6 @@
   <!-- France TV -->
   <channel site="france.tv" site_id="france-2" lang="fr" xmltv_id="France2.fr">France 2</channel>
   <channel site="france.tv" site_id="france-3" lang="fr" xmltv_id="France3.fr">France 3</channel>
-  <channel site="france.tv" site_id="france-4" lang="fr" xmltv_id="France4.fr">France 4</channel>
-  <channel site="france.tv" site_id="france-5" lang="fr" xmltv_id="France5.fr">France 5</channel>
   <channel site="france.tv" site_id="sport" lang="fr" logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/France.tv_Sport_2026.png" xmltv_id="">France Télévisions Sport</channel>
   <!-- L'Equipe ed M6 -->
   <channel site="mon-programme-tv.be" site_id="13/programme-television-m6" lang="fr" xmltv_id="M6.fr@HD">M6</channel>
