@@ -90,7 +90,7 @@
   <channel site="telenet.tv" site_id="launehd" lang="fr" xmltv_id="LaUne.be@SD">La Une HD</channel>
   <channel site="mon-programme-tv.be" site_id="1916/programme-television-tipik" lang="fr" xmltv_id="Tipik.be@SD">TIPIK</channel>
   <channel site="telenet.tv" site_id="eenhd" lang="nl" logo="https://images.seeklogo.com/logo-png/48/1/vrt-1-logo-png_seeklogo-481706.png" xmltv_id="">VRT 1</channel>
-  <channel site="telenet.tv" site_id="ketnetcanvashd" logo="https://images.vrt.be/orig/2025/11/04/fb012713-f86b-475a-bcb4-35704a429b25.svg" lang="nl" xmltv_id="">VRT CANVAS</channel>
+  <channel site="telenet.tv" site_id="ketnetcanvashd" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/VRT_Canvas_2023.svg/1280px-VRT_Canvas_2023.svg.png" lang="nl" xmltv_id="">VRT CANVAS</channel>
   
   <!-- Dazn e Sport TV Portogallo -->
   <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="CubavisionInternacional.cu@SD">Cubavisión</channel>
