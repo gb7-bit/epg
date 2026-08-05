@@ -66,13 +66,15 @@
   <channel site="guida.tv" site_id="83777180/sky-moto-gp" lang="it" xmltv_id="SkySportMotoGP.it@SD">Sky Moto GP</channel>
   <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it@SD">Sport Italia</channel>
   <channel site="guida.tv" site_id="83837049/sky-sport-f1" lang="it" xmltv_id="SkySportF1.it@SD">Sky Sport F1</channel>
-  <channel site="guida.tv" site_id="83838085/sky-sport-uno" lang="it" xmltv_id="SkySportUno.it@SD">Sky Sport Uno</channel>
   <channel site="guida.tv" site_id="83847273/super-tennis-hd" lang="it" xmltv_id="SuperTennis.it@HD">Super Tennis HD</channel>
   <channel site="guida.tv" site_id="84675052/top-calcio-24" lang="it" xmltv_id="TopCalcio24.it@SD">Top Calcio 24</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11401" lang="it" xmltv_id="ZonaDAZN2.it@SD">DAZN 2</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11402" lang="it" xmltv_id="ZonaDAZN.it@SD">DAZN 1</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11849" lang="it" xmltv_id="ZonaDAZN3.it@SD">DAZN3</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11850" lang="it" xmltv_id="ZonaDAZN4.it@SD">DAZN4</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#9113" lang="it" xmltv_id="SkySportCalcio.it@SD">Sky Sport Calcio</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11346" lang="it" xmltv_id="SkySportUno.it@SD">Sky Sport Uno</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#9093" lang="it" xmltv_id="SkySportArena.it@SD">Sky Sport Arena</channel>
 
   <!-- Svizzera -->
   <channel site="tv.blue.ch" site_id="356" lang="it" xmltv_id="RSILa1.ch@SD">RSI La 1</channel>
