@@ -37,8 +37,8 @@
   <!-- DTT&Sky Guida tv -->
   <channel site="tivu.tv" site_id="280" lang="it" logo="https://services.tivulaguida.it/uploads/channel/443ff8a73f650bd1ac9aca73887b198d39d7ce78.png" xmltv_id="">Cielo HD</channel>
   <channel site="tivu.tv" site_id="287" lang="it" logo="https://services.tivulaguida.it/uploads/channel/45e9daf7597069fdc10484c2c6d446b23736378f.png" xmltv_id="">HGTV ITALY HD</channel>
-  <channel site="guida.tv" site_id="698573/eurosport-italia" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
-  <channel site="guida.tv" site_id="69857350/eurosport-2-italia" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
+  <channel site="guida.tv" site_id="698573/eurosport-italia" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
+  <channel site="guida.tv" site_id="69857350/eurosport-2-italia" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
   <channel site="guida.tv" site_id="68748486/nove" lang="it" xmltv_id="Nove.it@SD">Nove</channel>
   <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="LA7.it@SD">LA 7</channel>
   <channel site="tivu.tv" site_id="279" lang="it" logo="https://services.tivulaguida.it/uploads/channel/b4879a78670aa64de3fbb0010ade8b85d2654dac.png" xmltv_id="">TV8 HD</channel>
@@ -55,17 +55,13 @@
   <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it@SD">Super!</channel>
   <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it@SD">TV 2000</channel>
   <channel site="tivu.tv" site_id="17" lang="it" logo="https://services.tivulaguida.it/uploads/channel/7936e4433244cda72edae01e137e5ec0b691581c.png" xmltv_id="">LA7CINEMA</channel>
-  <channel site="guida.tv" site_id="77738486/milan-tv" lang="it" xmltv_id="MilanTV.it@SD">Milan TV</channel>
   <channel site="tivu.tv" site_id="19" lang="it" logo="https://services.tivulaguida.it/uploads/channel/a1add1159f8dfa51d8a10c84e661d19165ed64e5.png" xmltv_id="">Real time HD</channel>
   <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it@SD">RTL 102.5</channel>
   <channel site="guida.tv" site_id="83495456/sky-tg24" lang="it" xmltv_id="SkyTG24.it@SD">Sky TG24</channel>
   <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it@SD">Sport Italia</channel>
   <channel site="guida.tv" site_id="83847273/super-tennis-hd" lang="it" xmltv_id="SuperTennis.it@HD">Super Tennis HD</channel>
   <channel site="guida.tv" site_id="84675052/top-calcio-24" lang="it" xmltv_id="TopCalcio24.it@SD">Top Calcio 24</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11401" lang="it" xmltv_id="ZonaDAZN2.it@SD">DAZN 2</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11402" lang="it" xmltv_id="ZonaDAZN.it@SD">DAZN 1</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11849" lang="it" xmltv_id="ZonaDAZN3.it@SD">DAZN3</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11850" lang="it" xmltv_id="ZonaDAZN4.it@SD">DAZN4</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11402" logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png" lang="it" xmltv_id="ZonaDAZN.it@SD">DAZN 1</channel>
   <channel site="guidatv.sky.it" site_id="DTH#9113" lang="it" xmltv_id="SkySportCalcio.it@SD">Sky Sport Calcio</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11346" lang="it" xmltv_id="SkySportUno.it@SD">Sky Sport Uno</channel>
   <channel site="guidatv.sky.it" site_id="DTH#9093" lang="it" xmltv_id="SkySportArena.it@SD">Sky Sport Arena</channel>
