@@ -69,10 +69,10 @@
   <channel site="guidatv.sky.it" site_id="DTH#9094" lang="it" xmltv_id="SkySport24.it@SD">Sky Sport24</channel>
   <channel site="guidatv.sky.it" site_id="DTH#9102" lang="it" xmltv_id="SkySportMotoGP.it@SD">Sky Sport MotoGP</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11237" lang="it" xmltv_id="SkySportTennis.it@SD">Sky Sport Tennis</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11494" lang="it" xmltv_id="SkySport253.it@SD">Sky Sport 253</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11496" lang="it" xmltv_id="SkySport252.it@SD">Sky Sport 252</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11494" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_Sport_-_Logo_2026.svg/960px-Sky_Sport_-_Logo_2026.svg.png" lang="it" xmltv_id="SkySport253.it@SD">Sky Sport 253</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11496" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_Sport_-_Logo_2026.svg/960px-Sky_Sport_-_Logo_2026.svg.png" lang="it" xmltv_id="SkySport252.it@SD">Sky Sport 252</channel>
   <channel site="guidatv.sky.it" site_id="DTH#11497" lang="it" xmltv_id="SkySport251.it@SD">Sky Sport 251</channel>
-  <channel site="guidatv.sky.it" site_id="DTH#11909" lang="it" xmltv_id="SkySportMix.it@SD">Sky Sport Mix</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#11909" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/3840px-Sky_Sport_Mix_Logo_2022.svg.png" lang="it" xmltv_id="SkySportMix.it@SD">Sky Sport Mix</channel>
   <channel site="guidatv.sky.it" site_id="DTH#9103" lang="it" xmltv_id="SkySportMax.it@SD">Sky Sport Max</channel>
 
   <!-- Svizzera -->
