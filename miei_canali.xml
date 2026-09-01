@@ -113,6 +113,7 @@
 
   <!-- Spagna -->
   <channel site="movistarplus.es" site_id="TDEP" lang="es" logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" xmltv_id="">Teledeporte</channel>
+  <channel site="movistarplus.es" site_id="LA2" lang="es" logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/960px-Logo_La_2.svg.png" xmltv_id="">LA 2</channel>
 
   <!-- Croazia -->
   <channel site="mujtvprogram.cz" site_id="61" lang="cs" xmltv_id="Sport1.cz@SD">Sport 1</channel>
