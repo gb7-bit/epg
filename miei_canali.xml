@@ -122,6 +122,12 @@
   <channel site="movistarplus.es" site_id="LA2" lang="es" logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/960px-Logo_La_2.svg.png" xmltv_id="">LA 2</channel>
   <channel site="movistarplus.es" site_id="TVE" lang="es" logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/960px-Logo_La_1.svg.png" xmltv_id="">LA 1</channel>
 
+  <!-- UK -->
+  <channel site="mytelly.co.uk" site_id="1804/tnt-sports-1" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
+  <channel site="mytelly.co.uk" site_id="1806/tnt-sports-2" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
+  <channel site="mytelly.co.uk" site_id="1952/tnt-sports-3" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_758465" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
+  
   <!-- Croazia -->
   <channel site="mujtvprogram.cz" site_id="61" lang="cs" xmltv_id="Sport1.cz@SD">Sport 1</channel>
   <channel site="mujtvprogram.cz" site_id="93" lang="cs" xmltv_id="Sport2.cz@SD">Sport 2</channel>
