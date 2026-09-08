@@ -35,10 +35,10 @@
   <channel site="mediasetinfinity.mediaset.it" site_id="R4" lang="it" xmltv_id="Rete4.it@SD">Rete 4</channel>
   
   <!-- DTT&Sky Guida tv -->
+  <channel site="superguidatv.it" site_id="eurosport-hd/sky-sport/45" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
+  <channel site="superguidatv.it" site_id="eurosport-2hd/sky-sport/46" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
   <channel site="tivu.tv" site_id="280" lang="it" logo="https://services.tivulaguida.it/uploads/channel/443ff8a73f650bd1ac9aca73887b198d39d7ce78.png" xmltv_id="">Cielo HD</channel>
   <channel site="tivu.tv" site_id="287" lang="it" logo="https://services.tivulaguida.it/uploads/channel/45e9daf7597069fdc10484c2c6d446b23736378f.png" xmltv_id="">HGTV ITALY HD</channel>
-  <channel site="guida.tv" site_id="698573/eurosport-italia" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
-  <channel site="guida.tv" site_id="69857350/eurosport-2-italia" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
   <channel site="guida.tv" site_id="68748486/nove" lang="it" xmltv_id="Nove.it@SD">Nove</channel>
   <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="LA7.it@SD">LA 7</channel>
   <channel site="tivu.tv" site_id="279" lang="it" logo="https://services.tivulaguida.it/uploads/channel/b4879a78670aa64de3fbb0010ade8b85d2654dac.png" xmltv_id="">TV8 HD</channel>
@@ -123,9 +123,9 @@
   <channel site="movistarplus.es" site_id="TVE" lang="es" logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/960px-Logo_La_1.svg.png" xmltv_id="">LA 1</channel>
 
   <!-- UK -->
-  <channel site="mytelly.co.uk" site_id="1804/tnt-sports-1" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
-  <channel site="mytelly.co.uk" site_id="1806/tnt-sports-2" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
-  <channel site="mytelly.co.uk" site_id="1952/tnt-sports-3" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_763997" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_764001" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_768612" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
   <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_758465" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
   
   <!-- Croazia -->
