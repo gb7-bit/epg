@@ -35,8 +35,8 @@
   <channel site="mediasetinfinity.mediaset.it" site_id="R4" lang="it" xmltv_id="Rete4.it@SD">Rete 4</channel>
   
   <!-- DTT&Sky Guida tv -->
-  <channel site="superguidatv.it" site_id="eurosport-hd/sky-sport/45" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport Italia</channel>
-  <channel site="superguidatv.it" site_id="eurosport-2hd/sky-sport/46" logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2 Italia</channel>
+  <channel site="sky.com" site_id="IT#3073" lang="it" xmltv_id="Eurosport1.fr@Italy">Eurosport 1</channel>
+  <channel site="sky.com" site_id="IT#150" lang="it" xmltv_id="Eurosport2.fr@Italy">Eurosport 2</channel>
   <channel site="tivu.tv" site_id="280" lang="it" logo="https://services.tivulaguida.it/uploads/channel/443ff8a73f650bd1ac9aca73887b198d39d7ce78.png" xmltv_id="">Cielo HD</channel>
   <channel site="tivu.tv" site_id="287" lang="it" logo="https://services.tivulaguida.it/uploads/channel/45e9daf7597069fdc10484c2c6d446b23736378f.png" xmltv_id="">HGTV ITALY HD</channel>
   <channel site="guida.tv" site_id="68748486/nove" lang="it" xmltv_id="Nove.it@SD">Nove</channel>
