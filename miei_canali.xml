@@ -131,4 +131,18 @@
   <!-- Croazia -->
   <channel site="mujtvprogram.cz" site_id="61" lang="cs" xmltv_id="Sport1.cz@SD">Sport 1</channel>
   <channel site="mujtvprogram.cz" site_id="93" lang="cs" xmltv_id="Sport2.cz@SD">Sport 2</channel>
+
+  <!-- Ungheria -->
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696521768448" lang="hr" xmltv_id="">SportKlub 5</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696523816253" lang="hr" xmltv_id="">SportKlub 8</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696524328080" lang="hr" xmltv_id="">SportKlub 1</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696524328149" lang="hr" xmltv_id="">SportKlub 6</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696528936296" lang="hr" xmltv_id="">SportKlub 2</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696529447952" lang="hr" xmltv_id="">SportKlub 9</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696529448021" lang="hr" xmltv_id="">SportKlub 10</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696529959967" lang="hr" xmltv_id="">SportKlub 7</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696530472226" lang="hr" xmltv_id="">SportKlub 3</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="696530983951" lang="hr" xmltv_id="">SportKlub 4</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="704057896278" lang="hr" xmltv_id="">SportKlub 11</channel>
+  <channel site="mojmaxtv.hrvatskitelekom.hr" site_id="708158504296" lang="hr" xmltv_id="">SportKlub 12</channel>
 </channels>
